@@ -1,0 +1,35 @@
+.	40755	0/0
+./._Library	40755	0/0	0	0
+./._usr	40755	0/0	0	0
+./Library	40755	0/0
+./Library/._LaunchAgents	40755	0/0	0	0
+./Library/._LaunchDaemons	40755	0/0	0	0
+./Library/LaunchAgents	40755	0/0
+./Library/LaunchAgents/._com.github.outset.login.plist	100644	0/0	0	0
+./Library/LaunchAgents/com.github.outset.login.plist	100644	0/0	398	1593654088
+./Library/LaunchDaemons	40755	0/0
+./Library/LaunchDaemons/._com.github.outset.boot.plist	100644	0/0	0	0
+./Library/LaunchDaemons/com.github.outset.boot.plist	100644	0/0	396	123929802
+./usr	40755	0/0
+./usr/._local	40755	0/0	0	0
+./usr/local	40755	0/0
+./usr/local/._outset	40755	0/0	0	0
+./usr/local/outset	40755	0/0
+./usr/local/outset/._FoundationPlist	40755	0/0	0	0
+./usr/local/outset/._everyboot-scripts	40755	0/0	0	0
+./usr/local/outset/._firstboot-packages	40755	0/0	0	0
+./usr/local/outset/._firstboot-scripts	40755	0/0	0	0
+./usr/local/outset/._login-every	40755	0/0	0	0
+./usr/local/outset/._login-once	40755	0/0	0	0
+./usr/local/outset/._outset	100755	0/0	0	0
+./usr/local/outset/FoundationPlist	40755	0/0
+./usr/local/outset/FoundationPlist/._FoundationPlist.py	100644	0/0	0	0
+./usr/local/outset/FoundationPlist/.___init__.py	100644	0/0	0	0
+./usr/local/outset/FoundationPlist/FoundationPlist.py	100644	0/0	4247	2739584866
+./usr/local/outset/FoundationPlist/__init__.py	100644	0/0	30	4063035699
+./usr/local/outset/everyboot-scripts	40755	0/0
+./usr/local/outset/firstboot-packages	40755	0/0
+./usr/local/outset/firstboot-scripts	40755	0/0
+./usr/local/outset/login-every	40755	0/0
+./usr/local/outset/login-once	40755	0/0
+./usr/local/outset/outset	100755	0/0	9788	964701664
