@@ -1,0 +1,10 @@
+{
+    "distribution_style": true,
+    "identifier": "org.erikng.pkg.HideUTDIsland",
+    "install_location": "/",
+    "name": "HideUTDIsland-1.0.pkg",
+    "ownership": "recommended",
+    "postinstall_action": "none",
+    "suppress_bundle_relocation": true,
+    "version": "1.0"
+}
