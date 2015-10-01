@@ -1,0 +1,8 @@
+.	40755	0/0
+./usr	40755	0/0
+./usr/local	40755	0/0
+./usr/local/outset	40755	0/0
+./usr/local/outset/custom	40755	0/0
+./usr/local/outset/custom/https_su.itunes.apple.com_0.localstorage	100644	0/0	12288	1448330903
+./usr/local/outset/login-once	40755	0/0
+./usr/local/outset/login-once/HideUTDIsland.sh	100755	0/0	682	3245098874
